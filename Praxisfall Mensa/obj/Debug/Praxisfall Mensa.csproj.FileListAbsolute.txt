@@ -1,0 +1,7 @@
+D:\IMS\BBZW\IPT\Praxisfall Mensa\bin\Debug\Praxisfall Mensa.exe.config
+D:\IMS\BBZW\IPT\Praxisfall Mensa\bin\Debug\Praxisfall Mensa.exe
+D:\IMS\BBZW\IPT\Praxisfall Mensa\bin\Debug\Praxisfall Mensa.pdb
+D:\IMS\BBZW\IPT\Praxisfall Mensa\obj\Debug\Praxisfall Mensa.csproj.AssemblyReference.cache
+D:\IMS\BBZW\IPT\Praxisfall Mensa\obj\Debug\Praxisfall Mensa.csproj.CoreCompileInputs.cache
+D:\IMS\BBZW\IPT\Praxisfall Mensa\obj\Debug\Praxisfall Mensa.exe
+D:\IMS\BBZW\IPT\Praxisfall Mensa\obj\Debug\Praxisfall Mensa.pdb
